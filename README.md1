@@ -1,0 +1,48 @@
+HR Analytics Dashboard (Power BI)
+
+Project Overview
+
+This project analyzes employee data to understand workforce trends, employee attrition, job satisfaction, and demographic patterns using Power BI.
+
+Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualization
+
+Dashboard Features
+
+- Overall Employee Count
+- Employee Attrition Analysis
+- Attrition Rate Calculation
+- Active Employee Analysis
+- Average Age Analysis
+- Department-wise Attrition
+- Education Field-wise Attrition
+- Job Satisfaction Rating Analysis
+- Age Group and Gender Analysis
+
+Key Insights
+
+- The overall attrition rate is 17.31%.
+- The Research & Development department has the highest employee count.
+- Employees aged 25–34 show higher attrition compared to other age groups.
+- Job satisfaction levels vary across different job roles.
+- Education background influences employee attrition patterns.
+
+Business Value
+
+This dashboard helps HR teams:
+
+- Monitor employee turnover.
+- Identify high-risk employee groups.
+- Improve employee retention strategies.
+- Analyze workforce demographics and satisfaction.
+
+Author
+
+Sinchana S
+
+Aspiring Data Analyst | SQL | Python | Excel | Power BI | Machine Learning
